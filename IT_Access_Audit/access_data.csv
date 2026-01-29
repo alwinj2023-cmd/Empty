@@ -1,0 +1,16 @@
+UserID,Name,Department,Role,AccessLevel,Environment,LastLoginDays
+U001,Aarav,IT,Admin,Full,Prod,2
+U002,Meera,Finance,User,Limited,Prod,12
+U003,Rahul,IT,User,Full,Dev,5
+U004,Priya,HR,User,Limited,Dev,45
+U005,Karthik,IT,Admin,Full,Dev,7
+U006,Sana,Operations,User,Full,Prod,30
+U007,Varun,Sales,User,Limited,Prod,90
+U008,Ananya,IT,User,Full,Prod,1
+U009,Deepak,Finance,Admin,Full,Prod,60
+U010,Nisha,HR,User,Limited,Prod,8
+U011,Arjun,Operations,User,Full,Dev,15
+U012,Divya,Sales,User,Limited,Dev,25
+U013,Vikram,IT,Admin,Full,Prod,14
+U014,Pooja,Finance,User,Limited,Dev,40
+U015,Sameer,IT,User,Full,Prod,120
